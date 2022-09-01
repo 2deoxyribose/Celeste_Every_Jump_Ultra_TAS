@@ -1,0 +1,100 @@
+#By 2deoxyribose
+
+Set, ExtendedVariantMode.JumpCount, 2147483647
+Set, ExtendedVariantMode.EveryJumpIsUltra, true
+console rmx2 5
+   1
+  61
+#Start
+#00
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,G
+   2,J,G
+   2,K,G
+   2,J,G
+   2,K,G
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  40
+
+#01
+   8,R,D,X
+   7
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  40
+
+#02
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1
+  15,U,X
+   5
+  15,R,D,X
+  11,R
+   1,R,J
+   1,R,K
+   1,R,J
+   3
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  11,U,X
+   4
+  19,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  12,U,X
+ 135
+#6.290(465)
